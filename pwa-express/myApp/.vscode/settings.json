@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5be90134-09f6-4079-8ed1-3047b041066a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/nitya-express-pwa",
+    "appService.deploySubpath": "."
+}
